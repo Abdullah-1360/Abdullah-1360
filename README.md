@@ -24,9 +24,9 @@
 
 <h2>🌍 Let's Connect</h2>
 <p>
-  📧 Email: <a href="mailto:abdullahshahid906@gmail.com">your.email@example.com</a><br>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/abdullah-shahid-ba978b221">linkedin.com/in/yourprofile</a><br>
-  🌐 Portfolio: <a href="https://abdullah-1360.github.io/Portfolio_web">yourportfolio.com</a>
+  📧 Email: <a href="mailto:abdullahshahid906@gmail.com">Contact me!</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/abdullah-shahid-ba978b221">My LinkedIn</a><br>
+  🌐 Portfolio: <a href="https://abdullah-1360.github.io/Portfolio_web">Portfolio</a>
 </p>
 
 <hr>
